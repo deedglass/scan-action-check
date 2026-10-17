@@ -11,4 +11,4 @@ jobs:
       pull-requests: write
       actions: read
     steps:
-      - uses: deedglass/scan-action/comment@645c2571a7d678f475f0081df8b245fec68d5134 # release candidate
+      - uses: deedglass/scan-action/comment@60650a5620cf264b0c7fc5b1eefd81d41e6f5cf3 # v1
